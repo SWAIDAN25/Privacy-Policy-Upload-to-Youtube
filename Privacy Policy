@@ -1,0 +1,14 @@
+Privacy Policy for Upload to Youtube Extension
+Last Updated: August 5, 2025
+
+This Privacy Policy explains how the Upload to Youtube Chrome Extension, operated by Upload to Youtube Extension, a business based in Massachusetts, collects, uses, and protects your information when you use our extension.
+
+When you use the Upload to Youtube extension and sign in with your YouTube account, we access basic account information through Google OAuth. This includes your Google ID and the necessary YouTube channel data to perform video uploads on your behalf. We also process the video URLs you provide, such as links from TikTok or Reddit, solely to upload them to your YouTube account as unlisted videos.
+
+We do not collect or store your login credentials. We do not store, sell, or share any of your personal data, video content, or account information with third parties. The extension functions entirely based on your authorization and action, and only processes information necessary to complete your upload request.
+
+We use Google APIs to provide this functionality. Your use of Google services through this extension is governed by Google’s Privacy Policy and the Google API Services User Data Policy, including Limited Use requirements. You can review those policies at https://developers.google.com/terms/api-services-user-data-policy.
+
+To ensure your information remains secure, we use secure authentication practices and do not maintain any user databases or collect data beyond what is required for the core functionality. The extension is not intended for use by children under 13 years of age, and we do not knowingly collect data from minors.
+
+By using the Upload to Youtube extension, you consent to this Privacy Policy. If we update this policy, we will notify users via the Chrome Web Store listing or within the extension interface.
